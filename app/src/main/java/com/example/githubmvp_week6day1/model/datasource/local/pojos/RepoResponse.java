@@ -1,9 +1,9 @@
 
-package com.example.githubmvp_week6day1.model.pojos;
+package com.example.githubmvp_week6day1.model.datasource.local.pojos;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-import android.os.Parcelable.Creator;
+
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 

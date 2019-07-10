@@ -8,7 +8,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.example.githubmvp_week6day1.R;
-import com.example.githubmvp_week6day1.model.pojos.RepoResponse;
+import com.example.githubmvp_week6day1.model.datasource.local.pojos.RepoResponse;
 
 import java.util.List;
 

@@ -2,8 +2,9 @@ package com.example.githubmvp_week6day1.model.remote;
 
 import android.util.Log;
 
-import com.example.githubmvp_week6day1.model.pojos.GithubResponse;
-import com.example.githubmvp_week6day1.model.pojos.RepoResponse;
+import com.example.githubmvp_week6day1.model.datasource.local.pojos.GithubResponse;
+import com.example.githubmvp_week6day1.model.datasource.local.pojos.RepoResponse;
+import com.example.githubmvp_week6day1.view.activities.reporesponseactivity.RepoResponseActivity;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 
